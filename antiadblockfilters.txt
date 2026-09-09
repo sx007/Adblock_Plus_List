@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: K9/LYw0EErh5N5MSLG2mcw
-! Version: 202609080241
+! Checksum: pjiTVnNeoFlw3Lfo89x+MQ
+! Version: 202609090242
 ! Title: Adblock Warning Removal List
-! Last modified: 08 Sep 2026 02:41 UTC
+! Last modified: 09 Sep 2026 02:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/antiadblockfilters
 ! Licence: https://easylist.to/pages/licence.html
@@ -77,6 +77,7 @@ koolhydraatarmerecepten.info##body > [style^="z-index: 1000000; "]
 ||ffmovies.lol/jss/dectector-2025.js
 ||freeiptvplayer.net/wp-content/uploads/$script
 ||full.video/btn.js
+||luluvdo.com/js/jdadbl.js
 ||pastedownload.com/template/nova/js/adb/
 ||polygon.com/fetch/next/mural/
 ||rockradio.com^*/blockadblock-$script,domain=rockradio.com
