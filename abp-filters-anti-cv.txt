@@ -1,10 +1,10 @@
 [Adblock Plus 3.1]
-! Checksum: RR/E9Ch+X5wGsaynQd2xPQ
+! Checksum: qzBMlf8yJ/D8LKJCMONlHg
 ! id: D4028CDD-3D39-4624-ACC7-8140F4EC3238
-! DiffUrl: https://easylist-downloads.adblockplus.org/v3/diff/abp-filters-anti-cv/e0b33c25c0e39cba9b5a1bf15dfe8007ffb4fa2e.json
-! Version: 202609140703
+! DiffUrl: https://easylist-downloads.adblockplus.org/v3/diff/abp-filters-anti-cv/1d38f59dd2a0f97405838f0647ab18edc7bf8e51.json
+! Version: 202609210702
 ! Title: ABP filters (compliance)
-! Last modified: 14 Sep 2026 07:03 UTC
+! Last modified: 21 Sep 2026 07:02 UTC
 ! Expires: 1 hours (update frequency)
 ! Homepage: https://gitlab.com/eyeo/anti-cv/abp-filters-anti-cv
 !
@@ -1556,6 +1556,8 @@ factfeed.com,mdrntoday.com,travelroo.com#$#hide-if-matches-xpath './/div[contain
 ||ampscamp.net^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|gamebanana.com|gameslantern.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|wowhead.com
 ||consumerdebtnegotiation.com^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|gamebanana.com|gameslantern.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|wowhead.com
 ||techglow.net^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|gamebanana.com|gameslantern.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|wowhead.com
+||quicktattoo.com^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|gamebanana.com|gameslantern.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|wowhead.com
+||firsthoughtstudios.com^$domain=addictinggames.com|convertcase.net|coolmathgames.com|dailykos.com|danslescoulisses.com|gamebanana.com|gameslantern.com|icy-veins.com|knowyourmeme.com|prydwen.gg|sporcle.com|wowhead.com
 ! Popup/Popunder/Clickunder
 0123movies.*,123freemovies.net,123movies.*,123movieshub.tc,adblockeronstreamtape.*,adblockplustape.com,adblockstreamtape.*,animepahe.*,anitube.*,bigtitsxxxfree.com,cineby.*,cinevo.nl,configspc.com,dood.*,doods.*,doodstream.*,dooodster.*,fastream.to,govid.*,hclips.com,hd-analporn.com,hentai2w.com,hotmovs.com,hxfile.co,komikcast.com,mavavid.com,mstream.fun,mstream.icu,mstream.tech,mystream.io,mystream.to,onetouchtv.me,pandamovies.pw,perfectgirls.*,porn.com,porndollz.com,pornhat.com,prmovies.*,realgfporn.com,rule34hentai.net,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.*,streamadblocker.xyz,streamadblockplus.com,streamadblockplus.xyz,streamta.pe,streamtape.*,streamtapeadblock.art,strtape.*,strtapeadblock.me,tapewithadblock.org,vidstreaming.io,vidstreamz.online,w-123movies.com,xnxxvideo.pro,xvideosxporn.com#$#abort-on-property-read open
 adblockeronstreamtape.*,adblockplustape.com,adblockstreamtape.*,adblockstrtape.link,baytorrent.eu.org,dood.*,doods.*,doodstream.*,dooodster.*,europixhd.com,europixhd.net,fileflares.com,gledajonline.net,govid.*,hdeuropix.io,hxfile.co,isohunt.lol,isohuntz.net,javjunkies.com,javmost.com,latinblog.tv,limetorrents.info,loadsubs.net,mixdrop.*,mypiratebay.*,myyouporn.com,openpirate.org,piratebay.cloud,piratebay.live,piratebay.party,piratebay.world,piratebayproxy.live,piratebays.wtf,pirateproxy.earth,pirateproxy.live,pirateproxy.surf,pirateproxy.us,proxyninja.org,shavetape.cash,stapadblockuser.xyz,stapewithadblock.monster,strcloud.*,streamadblocker.xyz,streamadblockplus.com,streamadblockplus.xyz,streamta.pe,streamtape.*,strtape.*,strtapeadblock.me,tapewithadblock.org,thehiddenbay.com,thepiratebay.org,thepiratebay.vip,thepiratebay.zone,thepiratebay0.org,thepiratebay10.org,topeuropix.net,tpb.party,tpb.red,vidoz8.com,vidshare.tv,voe.sx,youdbox.com#$#abort-on-property-write _pop
@@ -2706,12 +2708,12 @@ monkeydtruyen.com#$#simulate-mouse-event '.affClick[style=" display:block; "]' '
 cmangax18.com#$#cookie-remover ads_num true
 truyenfull.live#$#override-property-read ads_show 0
 ! Popup/Popunder/Clickunder
-animesub.site,anime47.best,hoctot.hocmai.vn,keysmatterinc.com,maclife.io,player.phimapi.com,x.phimsexvn1.co.uk,sachmoi.net,javgiga.wordpress.com,vinaurl.net,xfast.sbs,zpic.st,anime47.best,x.phimsexvn1.co.uk,cdn.codexa.fun,mimoza.sbs#$#abort-on-property-read open
+animesub.site,anime47.best,hoctot.hocmai.vn,keysmatterinc.com,maclife.io,player.phimapi.com,x.phimsexvn1.co.uk,sachmoi.net,javgiga.wordpress.com,vinaurl.net,xfast.sbs,zpic.io,anime47.best,x.phimsexvn1.co.uk,cdn.codexa.fun#$#abort-on-property-read open
 truyen247.pro#$#abort-current-inline-script eval
 www.gvnvh18z.com#$#abort-current-inline-script Math
 xnxx-sex-videos.com#$#abort-current-inline-script setTimeout /window.location/
 xnxx-sex-videos.com#$#override-property-read user_out false
-anime47.best,chichvn.pet,comong.info,forum.timfshare.com,honghotduongpho.vn,mv.dailyphimz.com,mv.phimbathu.one,phimchill.life,quangcaoyenbai.com,sexhihi9x.com,thefaplive.com,truyensieuhay.com,qmhsexhay.com#$#abort-on-property-read document.cookie
+anime47.best,comong.info,forum.timfshare.com,honghotduongpho.vn,mv.dailyphimz.com,mv.phimbathu.one,phimchill.life,quangcaoyenbai.com,sexhihi9x.com,thefaplive.com,truyensieuhay.com,qmhsexhay.com#$#abort-on-property-read document.cookie
 metruyenchu.com#$#abort-on-property-write window.onclick
 ##[href^="//mage98rquewz.com/"]
 linkneverdie.net,linkneverdie.top,linkneverdie2.com#$#abort-current-inline-script document.createElement optad; abort-on-property-read pushOnPageGala
@@ -2756,7 +2758,7 @@ haysexvn.shop#$#abort-current-inline-script document.addEventListener adx
 clipphot.co#$#abort-current-inline-script document.addEventListener POP
 audiotruyenfull.com#$#abort-current-inline-script document.addEventListener ai_run
 audiotruyenfull.com,teamlanhlungday.store,trumtruyen.xyz,www.1phim27.com#$#abort-current-inline-script setTimeout Aff
-pheclip.chat,phim18vip.site,sieudam.fit,subnhanh.plus#$#abort-current-inline-script $ pop
+sieudam.fit,subnhanh.plus#$#abort-current-inline-script $ pop
 quykhu.com#$#abort-current-inline-script document.addEventListener atob
 thiendia3.com#$#abort-current-inline-script document.addEventListener adState
 xoilaczkkz.tv#$#abort-current-inline-script jQuery open
@@ -2769,6 +2771,7 @@ laodong.vn#$#abort-current-inline-script window.addEventListener AdBlock
 motchillw.sh,fcloud.live#$#prevent-listener click links
 motchillw.sh#$#prevent-listener click sessionStorage
 cap3.email,qmh.garden#$#abort-on-property-read sessionStorage
+beatvn.online#$#abort-current-inline-script document.addEventListener Redirect
 ! *** abp-filters-anti-cv:RM.txt ***
 ! #RM-1
 tripadvisor.com#$#hide-if-matches-xpath './/a[contains(text(),"Sponsored")][@target="_blank"]/parent::div/ancestor::div[@class][2]'
@@ -3613,6 +3616,9 @@ mail.ru#@#.tgb-wrapper
 mail.ru#@#[href^="https://dzen.ru"]
 @@://mail.ru/$csp=connect-src 'self' *.imgsmail.ru *.mail.ru ok.ru vk.com data: blob:
 mail.ru#@#[href*="https://dzen.ru"]
+! pinterest on hover issue
+pinterest.com#@#div[data-grid-item]:has(a[rel="nofollow"][href^="http"])
+pinterest.com#@#div[data-grid-item]:has(div[data-test-id="pinrep-video"]):has(a[rel="nofollow"][href^="http"])
 ! *** abp-filters-anti-cv:distribution/abp-filters-core.txt ***
 ! Filters to be used by core products
 ! #CV-782
@@ -3643,10 +3649,10 @@ youtube.com#@##description-inner > ytd-merch-shelf-renderer > #main.ytd-merch-sh
 ! yt-shorts
 www.youtube.com,m.youtube.com#$#json-prune 'entries.[-].command.reelWatchEndpoint.adClientParams.isAd'
 ! Monitoring
-chatgpt.com#$#log-if-selector-exists 'div[data-assistant-ads]' ads-chatgpt; log-if-selector-exists '.border-token-border-default.mt-2.border-t:has(button[aria-label="Ad options"])' ads-chatgpt; log-if-selector-exists 'div.opacity-100.transition-opacity.ease-out:has(button[aria-label="Sponsored options"], button[aria-label="Ad options"])' ads-chatgpt; log-if-selector-exists '[class*="_assistantAds"]' ads-chatgpt; log-if-selector-exists '[data-testid="bazaar-v2-elevated-box"]' ads-chatgpt; log-if-selector-exists 'div[data-message-supplement]:has(aside[data-partial-island="assistant-ads"])' ads-chatgpt; log-if-selector-exists 'div[data-testid="bazaar-single-card-container"]' ads-chatgpt; log-if-selector-exists 'section:has(> [aria-label="Sponsored"])' ads-chatgpt; log-if-selector-exists 'aside[data-assistant-ads-unit]' ads-chatgpt; log-if-selector-exists 'xpath(id("thread")//div[starts-with(@class,"border-") and not(contains(@class,"sidebar")) and contains(.,"Ad")])' ads-chatgpt; log-if-selector-exists 'xpath(id("thread")//div[starts-with(@class,"border-") and not(contains(@class,"sidebar")) and contains(.,"Sponsored")])' ads-chatgpt; log-if-selector-exists 'xpath(id("thread")//h3[normalize-space(text())="Sponsored"]/ancestor::div[starts-with(@class,"border-") and not(.//div[@data-message-author-role])][1] | id("thread")//span[normalize-space(text())="Ad"]/ancestor::div[starts-with(@class,"border-") and not(.//div[@data-message-author-role])][1])' ads-chatgpt; log-if-selector-exists 'xpath(id("thread")//*[contains(concat(" ",normalize-space(@class)," ")," bg-token-bg-tertiary ") and contains(concat(" ",normalize-space(@class)," ")," rounded-full ") and normalize-space(text())="Ad"]/ancestor::div[contains(concat(" ",normalize-space(@class)," ")," border-t ")][1])' ads-chatgpt;
+chatgpt.com#$#race start; log-if-selector-exists 'div[data-assistant-ads]' ads-chatgpt; log-if-selector-exists '.border-token-border-default.mt-2.border-t:has(button[aria-label="Ad options"])' ads-chatgpt; log-if-selector-exists 'div.opacity-100.transition-opacity.ease-out:has(button[aria-label="Sponsored options"], button[aria-label="Ad options"])' ads-chatgpt; log-if-selector-exists '[class*="_assistantAds"]' ads-chatgpt; log-if-selector-exists '[data-testid="bazaar-v2-elevated-box"]' ads-chatgpt; log-if-selector-exists 'div[data-message-supplement]:has(aside[data-partial-island="assistant-ads"])' ads-chatgpt; log-if-selector-exists 'div[data-testid="bazaar-single-card-container"]' ads-chatgpt; log-if-selector-exists 'section:has(> [aria-label="Sponsored"])' ads-chatgpt; log-if-selector-exists 'aside[data-assistant-ads-unit]' ads-chatgpt; log-if-selector-exists 'xpath(id("thread")//div[starts-with(@class,"border-") and not(contains(@class,"sidebar")) and contains(.,"Ad")])' ads-chatgpt; log-if-selector-exists 'xpath(id("thread")//div[starts-with(@class,"border-") and not(contains(@class,"sidebar")) and contains(.,"Sponsored")])' ads-chatgpt; log-if-selector-exists 'xpath(id("thread")//h3[normalize-space(text())="Sponsored"]/ancestor::div[starts-with(@class,"border-") and not(.//div[@data-message-author-role])][1] | id("thread")//span[normalize-space(text())="Ad"]/ancestor::div[starts-with(@class,"border-") and not(.//div[@data-message-author-role])][1])' ads-chatgpt; log-if-selector-exists 'xpath(id("thread")//*[contains(concat(" ",normalize-space(@class)," ")," bg-token-bg-tertiary ") and contains(concat(" ",normalize-space(@class)," ")," rounded-full ") and normalize-space(text())="Ad"]/ancestor::div[contains(concat(" ",normalize-space(@class)," ")," border-t ")][1])' ads-chatgpt; race stop;
 copilot.microsoft.com#$#log-if-selector-exists 'div[data-testid="ads-card"]' ads-copilot; log-if-selector-exists '.b_ad' ads-copilot;
 fandom.com#$#log-if-selector-exists 'fandom-ad iframe' ads-fandom; log-if-selector-exists 'div:not(.fandom-ad-wrapper) > fandom-ad' ads-fandom-non-aa-navigation; log-if-selector-exists 'div:not(.fandom-ad-wrapper) > fandom-ad[style] iframe' ads-fandom-non-aa-hidden; log-if-selector-exists 'div:not(.fandom-ad-wrapper) > fandom-ad:not([style]) iframe' ads-fandom-non-aa-shown; log-if-selector-exists 'div.fandom-ad-wrapper > fandom-ad' ads-fandom-aa-navigation; log-if-selector-exists 'div.fandom-ad-wrapper[style] > fandom-ad iframe' ads-fandom-aa-hidden; log-if-selector-exists 'div.fandom-ad-wrapper:not([style]) > fandom-ad iframe' ads-fandom-aa-shown; log-if-selector-exists 'video.jw-video' ads-fandom-video-ad;
-mail.yahoo.com#$#log-if-selector-exists 'li:has(a[href^="https://api.taboola.com/"])' ads-yahoo-mail-pencil;
+mail.yahoo.com#$#log-if-selector-exists 'li:has(a[href^="https://api.taboola.com/"])' ads-yahoo-mail-pencil; log-if-selector-exists '[data-test-id="gam-iframe"][style]' ads-yahoo-mail-gam-hidden; log-if-selector-exists '[data-test-id="gam-iframe"]:not([style])' ads-yahoo-mail-gam-shown; log-if-selector-exists '#slot_LREC[style]' ads-yahoo-mail-slotlrec-hidden; log-if-selector-exists '#slot_LREC:not([style])' ads-yahoo-mail-slotlrec-shown;
 tiktok.com#$#log-if-selector-exists '[class*="DivCardWrapper"]:has([data-e2e="ad-tag"])' ads-tiktok;
 www.youtube.com#$#log-if-selector-exists '.ad-interrupting' ads-youtube;
 ! Montioring AdShield on Yahoo, split per section so we can see which surfaces adopt it.
@@ -3809,7 +3815,6 @@ sneakernews.com##.site-header {top:0;}
 ||arhatsfenman.com^
 ||aricinquerida.com^
 ||ariososlepage.com^
-||arisefeistyleery.com^
 ||arisingwinze.com^
 ||arrogancelullabyjan.com^
 ||ashlingzanyish.com^
@@ -3834,9 +3839,9 @@ sneakernews.com##.site-header {top:0;}
 ||baeriapiacula.com^
 ||bagdigravy.com^
 ||bagfulcausing.com^
-||baggerspaces.com^
 ||balanicextreat.com^
 ||ballasshwebo.com^
+||baredagin.com^
 ||bariesnaw.com^
 ||basionsassay.com^
 ||bastardzingaro.com^
@@ -3895,14 +3900,13 @@ sneakernews.com##.site-header {top:0;}
 ||broosnighed.com^
 ||browpotware.com^
 ||bubblessudsman.com^
-||buddhiknutty.com^
 ||buisthainan.com^
 ||bukhscrithe.com^
+||bundleunum.com^
 ||burnetsasgmt.com^
 ||bustlejuking.com^
 ||buteopung.com^
 ||bututpoopsie.com^
-||byrniessilky.com^
 ||bytefrom2010.com^
 ||cabalsoftish.com^
 ||cainginpenicil.com^
@@ -3997,7 +4001,6 @@ sneakernews.com##.site-header {top:0;}
 ||dagheshwisshe.com^
 ||dagobasaspasia.com^
 ||dalkawe.com^
-||deaferfutiley.com^
 ||decafeligiblyhad.com^
 ||deckedpreeze.com^
 ||deckenexodium.com^
@@ -4006,12 +4009,12 @@ sneakernews.com##.site-header {top:0;}
 ||dehorsshochet.com^
 ||delightlintlunatic.com^
 ||dellwisping.com^
+||densenbl.com^
 ||deposedassuage.com^
 ||depurgeholour.com^
 ||dernergazeful.com^
 ||detinetcallant.com^
 ||deusvardy.com^
-||deviletcolog.com^
 ||dhunchifidia.com^
 ||diagnosedecorationvideotape.com^
 ||diamberproetid.com^
@@ -4024,6 +4027,7 @@ sneakernews.com##.site-header {top:0;}
 ||dirgesimious.com^
 ||discepttaked.com^
 ||discreditperspirepoetry.com^
+||discussiondaub.com^
 ||dittoforgive.com^
 ||dividedmidsummer.com^
 ||doatyricinic.com^
@@ -4086,6 +4090,7 @@ sneakernews.com##.site-header {top:0;}
 ||extancecompert.com^
 ||exudingidolet.com^
 ||fabricforrel.com^
+||facticeectopic.com^
 ||factoriesin5050.com^
 ||factorycurriculumtorrent.com^
 ||faggotyarterin.com^
@@ -4096,13 +4101,13 @@ sneakernews.com##.site-header {top:0;}
 ||fascescrewet.com^
 ||fattingnines.com^
 ||favourvermix.com^
-||feluccabellota.com^
 ||feriehangups.com^
 ||fermataintima.com^
 ||fervidlowstrongest.com^
 ||filpili.com^
 ||filtreyoking.com^
 ||fixuresrethink.cfd^
+||fizzledesire.com^
 ||flakespunishmentscythe.com^
 ||flossedmoiled.com^
 ||focheglyzy.com^
@@ -4115,6 +4120,7 @@ sneakernews.com##.site-header {top:0;}
 ||formulearchin.com^
 ||forsungxylols.com^
 ||franceswaps.com^
+||freestlinget.com^
 ||fremtencycl.com^
 ||freshacceleronparalleldynamics.net^
 ||fretumlimpsey.com^
@@ -4128,13 +4134,14 @@ sneakernews.com##.site-header {top:0;}
 ||fushtbordels.com^
 ||fustianwaked.com^
 ||fuzeszoeal.com^
+||fwlkaipvff.icu^
 ||gaggedtetrode.com^
 ||gainedtelephone.com^
 ||gappedpeatmen.com^
 ||garlicice.store^
 ||garrafaspotted.com^
 ||garrotedacron.com^
-||gaseityorchid.com^
+||gassedapelet.com^
 ||gatheringtypes.com^
 ||gaupvinetta.com^
 ||gearmanswings.com^
@@ -4163,8 +4170,8 @@ sneakernews.com##.site-header {top:0;}
 ||grandmatootsy.com^
 ||grecingcloners.com^
 ||gregariousstretch.com^
+||grewiabromus.com^
 ||gridfrom1111.net^
-||grindaldenim.com^
 ||grouchy-lay.com^
 ||growledbravely.com^
 ||grozetstraint.com^
@@ -4182,11 +4189,13 @@ sneakernews.com##.site-header {top:0;}
 ||gybetrica.com^
 ||gyrocarkluck.com^
 ||halmfrisii.com^
+||hambonejataco.com^
 ||hardyforges.com^
 ||hattyrhombi.com^
 ||haydntaal.com^
 ||hdwetwindle.com^
 ||hebamicmopeds.com^
+||hedgybache.com^
 ||heistedsignon.com^
 ||helcoiduncity.com^
 ||heliobedlamp.com^
@@ -4206,9 +4215,7 @@ sneakernews.com##.site-header {top:0;}
 ||horsiergrassed.com^
 ||hotcheslepton.com^
 ||hottedholster.com^
-||housycimelia.com^
 ||hscollectedforms.net^
-||hubeamily.com^
 ||hucklelugging.com^
 ||humatesmyiosis.com^
 ||humeraldurezza.com^
@@ -4266,7 +4273,6 @@ sneakernews.com##.site-header {top:0;}
 ||judaismjef.com^
 ||juicy-current.com^
 ||justspoisure.com^
-||juvenileconstant.com^
 ||jwxggyivum.icu^
 ||kafalouder.com^
 ||kalingacurvant.com^
@@ -4331,6 +4337,7 @@ sneakernews.com##.site-header {top:0;}
 ||malwaaliquot.com^
 ||mambasscious.com^
 ||mamerstonto.com^
+||manhoodinvoluntaryplash.com^
 ||mappersavarish.com^
 ||mapssufeism.com^
 ||maraywreath.com^
@@ -4352,10 +4359,10 @@ sneakernews.com##.site-header {top:0;}
 ||modern-oven.com^
 ||moluccadecoyed.com^
 ||momentsjuergen.com^
-||mondejudgers.shop^
 ||monkismtheban.com^
 ||mountaindriftevolutiontechnologies.net^
 ||mournerslath.com^
+||moxopostman.com^
 ||mploejuiashsatea.com^
 ||mudejartitoism.com^
 ||muggurssalited.com^
@@ -4369,6 +4376,7 @@ sneakernews.com##.site-header {top:0;}
 ||nappieoxbows.com^
 ||nauticaldiscipline.com^
 ||ndrimmers.com^
+||nebulonrfs.com^
 ||negliglesson.com^
 ||neiperevolved.com^
 ||netembed.xyz^
@@ -4389,7 +4397,6 @@ sneakernews.com##.site-header {top:0;}
 ||nplaf.com^
 ||nubbycoolly.com^
 ||nucleonfashing.com^
-||nutatelust.com^
 ||nylastmangy.com^
 ||obanlazed.com^
 ||obdtfijian.com^
@@ -4424,6 +4431,7 @@ sneakernews.com##.site-header {top:0;}
 ||oxyacidalogia.com^
 ||pamphiltre.com^
 ||papaneecorche.com^
+||papyraldanai.com^
 ||paralyzedhelmetnell.com^
 ||parodostaunter.qpon^
 ||parrbetire.com^
@@ -4438,6 +4446,7 @@ sneakernews.com##.site-header {top:0;}
 ||pepscarn.com^
 ||persinners.com^
 ||petaratowed.com^
+||petrierehaul.com^
 ||phenylsgeed.com^
 ||physicaldad.com^
 ||piewifezeke.com^
@@ -4445,7 +4454,6 @@ sneakernews.com##.site-header {top:0;}
 ||pilleustrig.com^
 ||pilotijuly.com^
 ||pincersmidnight.com^
-||piousshiners.com^
 ||pitpropsizygia.com^
 ||plaitluctual.com^
 ||plumbicwooler.com^
@@ -4455,6 +4463,7 @@ sneakernews.com##.site-header {top:0;}
 ||portiasaigon.com^
 ||potentymoa.com^
 ||prabblenutrify.com^
+||predominantadmittancerustle.com^
 ||preservedsober.com^
 ||prevoidboulle.com^
 ||preyfultarried.com^
@@ -4468,6 +4477,7 @@ sneakernews.com##.site-header {top:0;}
 ||puceronplouky.com^
 ||punglecensual.com^
 ||punkasananym.com^
+||pwpamtcvrg.icu^
 ||pyxisdewrot.com^
 ||qs251.com^
 ||quarrelsomebitter.com^
@@ -4482,9 +4492,11 @@ sneakernews.com##.site-header {top:0;}
 ||randanspartan.com^
 ||randeriridium.com^
 ||rapid-university.com^
+||reaveorganum.com^
 ||rebopsmurly.com^
 ||recheckcaulite.com^
 ||redcapsunlime.com^
+||redsearoblates.com^
 ||redundancythumpairline.com^
 ||reedunpack.com^
 ||reforgefuhrer.com^
@@ -4512,14 +4524,18 @@ sneakernews.com##.site-header {top:0;}
 ||roledipocras.com^
 ||roommatepetition.com^
 ||rosasyndic.com^
-||roundyhagenia.com^
+||ruamupr.com^
 ||ruddytoph.com^
 ||ruderalweiring.com^
+||rudimentarytheoreticalrome.com^
 ||runtime8000.com^
 ||russismvarsha.com^
+||rutchcrosby.cyou^
 ||sableviolet.com^
+||sabutanjirble.com^
 ||sadpicture.com^
 ||sandboxto370.com^
+||sangleygunsman.com^
 ||sansaradivulse.com^
 ||santosunflat.com^
 ||sawneboenolic.com^
@@ -4559,11 +4575,13 @@ sneakernews.com##.site-header {top:0;}
 ||simplistic-package.com^
 ||singletplatformgleamenterprises.com^
 ||sitefleck.com^
+||sjv.io^
 ||sk2bvq.net^
 ||skewlycrepy.com^
 ||skinnedjets.com^
 ||skirlakawai.com^
 ||skypipevatican.com^
+||slatterflowers.com^
 ||sleeklyyallaer.com^
 ||slenderclarify.com^
 ||slimgather.com^
@@ -4579,6 +4597,7 @@ sneakernews.com##.site-header {top:0;}
 ||somepossibility.com^
 ||sonic2plugins.com^
 ||sopranishamim.com^
+||soraviable.com^
 ||sore-war.com^
 ||sorrowfulpsychology.com^
 ||sparoidgeneal.com^
@@ -4619,6 +4638,7 @@ sneakernews.com##.site-header {top:0;}
 ||suppressedtrophy.com^
 ||suprion.ru^
 ||surbatebeclose.com^
+||surpassjaypiet.com^
 ||susumufrits.com^
 ||swailsrecoal.com^
 ||swiwetduchan.shop^
@@ -4635,18 +4655,19 @@ sneakernews.com##.site-header {top:0;}
 ||tammycooly.com^
 ||tampurunrig.com^
 ||tankardgigots.com^
+||tarafsaluted.shop^
 ||tarinraiding.com^
 ||tasterdinger.com^
 ||tattvaballute.com^
 ||taujubarb.com^
 ||tauliabridler.com^
 ||taylorbrining.com^
-||tcwvvosfnvk.com^
 ||teenerdormer.com^
 ||teetymitring.com^
 ||tehseelaves.com^
 ||templatein13.net^
 ||tendencystrangely.com^
+||teniacites.com^
 ||tergantbegnaw.com^
 ||thalaolefin.com^
 ||thatdisform.cyou^
@@ -4670,7 +4691,6 @@ sneakernews.com##.site-header {top:0;}
 ||togaefaffy.com^
 ||tollboagane.com^
 ||tontineepulis.com^
-||toodlerehouse.com^
 ||toothsepinard.com^
 ||tootsykyklops.com^
 ||topiccaroler.com^
@@ -4716,9 +4736,7 @@ sneakernews.com##.site-header {top:0;}
 ||unwrapsstow.cyou^
 ||upcurlgleet.cyou^
 ||upsringsautes.com^
-||urbanfungose.com^
 ||urgingslaurae.com^
-||usesponsorarrange.com^
 ||usrpubtrk.com^
 ||utensilpousse.com^
 ||uttergleeks.com^
